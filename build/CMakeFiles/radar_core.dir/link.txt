@@ -1,0 +1,2 @@
+/usr/bin/ar qc libradar_core.a CMakeFiles/radar_core.dir/src/core/fft.cpp.o CMakeFiles/radar_core.dir/src/core/target.cpp.o CMakeFiles/radar_core.dir/src/core/simulator.cpp.o CMakeFiles/radar_core.dir/src/core/range_doppler.cpp.o CMakeFiles/radar_core.dir/src/core/cfar.cpp.o CMakeFiles/radar_core.dir/src/core/tracker.cpp.o
+/usr/bin/ranlib libradar_core.a
